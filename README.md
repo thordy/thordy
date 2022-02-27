@@ -12,7 +12,7 @@
 ### Glad to see you here!
 I'm a Software Developer, turned Software Architect with 10+ years of experience. Currently part of Sportradar's AudioVisual team ensuring delivery of hundreds of thousands of live streaming events yearly to fans worldwide. I'm passionate about streaming, low-latency and all the other challenges of delivering video to distributed audiences worldwide at large scale.
 
-Outside work I'm an avid darts player, and spent a lot of my time developing `kcapp`, a dart scoring application with custom features and integrations
+Outside work I'm an avid darts player, and spent a lot of my time developing `kcapp`, a dart scoring application with a lot of features and integrations.
 
 <br/>
 
@@ -48,10 +48,10 @@ Outside work I'm an avid darts player, and spent a lot of my time developing `kc
 <table>
     <tr>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=thordy&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=thordy&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="left" style="width: 100%" />
         </td>
         <td valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thordy&hide_border=true&layout=compact" align="left" style="width: 100%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thordy&hide_border=true&layout=compact&theme=gruvbox" align="left" style="width: 100%" />
         </td>
     </tr>
 </table>
