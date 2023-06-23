@@ -19,7 +19,7 @@ Outside work I'm an avid darts player, and spent a lot of my time developing `kc
 ## Rapidfire
 - 💻 Software Architect on the AudioVisual team @ [Sportradar](https://sportradar.com/)
 - 📽️ Passionate about live streaming
-- 🎯 I enjoy playing darts, and have built [kcapp](github.com/kcapp)
+- 🎯 I enjoy playing darts, and have built [kcapp](https://github.com/kcapp)
 
 <br/>
 
